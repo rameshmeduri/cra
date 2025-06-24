@@ -1,0 +1,8 @@
+- [ ] Primitives
+- [ ] Reference Types
+- [ ] Functions
+- [ ] Prototypal Inheritance
+- [ ] Class
+- [ ] Async
+- [ ] Closures
+- [ ] Event Loop
